@@ -17,7 +17,7 @@ sudo apt update
 
 sudo apt install ros-foxy-desktop
 
-echo "source source /opt/ros/foxy/setup.bash" >> ~/.bashrc
+echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 
 source ~/.bashrc
 
